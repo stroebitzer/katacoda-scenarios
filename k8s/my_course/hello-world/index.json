@@ -1,8 +1,8 @@
 {
-  "title": "vscode test",
+  "title": "Hello World",
   "description": "",
   "difficulty": "Beginner",
-  "time": "12",
+  "time": "1",
   "details": {
     "steps": [
       {
@@ -17,8 +17,10 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "terminal"
+  },
   "backend": {
-    "imageid": "kubernetes-cluster-running"
+    "imageid": "kubernetes"
   }
 }
