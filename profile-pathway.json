@@ -3,7 +3,7 @@
       {
         "title": "My Course",
         "icon": "fa-kubernetes",
-        "id": "my_course"
+        "id": "my-course"
       }
     ]
   }
