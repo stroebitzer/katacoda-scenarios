@@ -1,0 +1,24 @@
+{
+  "title": "vscode test",
+  "description": "",
+  "difficulty": "Beginner",
+  "time": "12",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "kubernetes-cluster-running"
+  }
+}
