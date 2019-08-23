@@ -1,0 +1,10 @@
+{
+    "courses": [
+      {
+        "title": "My Course",
+        "icon": "fa-kubernetes",
+        "id": "my_course"
+      }
+    ]
+  }
+  
