@@ -1,0 +1,16 @@
+{
+  "title": "My Course",
+  "description": "",
+  "courses": [
+    {
+      "course_id": "my-scenario-01",
+      "title": "My first scenario",
+      "description": ""
+    },
+    {
+      "course_id": "my-scenario-02",
+      "title": "My second scenario",
+      "description": ""
+    }
+  ]
+}
