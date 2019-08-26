@@ -1,0 +1,20 @@
+{
+  "title": "My third Scenario",
+  "description": "",
+  "difficulty": "Beginner",
+  "time": "12",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ]
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}

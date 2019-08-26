@@ -11,6 +11,11 @@
       "course_id": "my-scenario-02",
       "title": "My second scenario",
       "description": ""
+    },
+    {
+      "course_id": "my-scenario-03",
+      "title": "My third scenario",
+      "description": ""
     }
   ]
 }
